@@ -1,8 +1,3 @@
-# hmtt_76
-
-## 自我介绍
-- 我是赵旺的老师
-
 ### Compiles and hot-reloads for development
 ```
 npm run serve
